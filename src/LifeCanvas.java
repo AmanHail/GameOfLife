@@ -1,12 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-/**
- * Create and design the canvas for the grid.
- * 
- * @author Aman Haileyesus
- * @version 10/17/2022
- */
+
 public class LifeCanvas extends JPanel
     implements MouseListener, MouseMotionListener
     
