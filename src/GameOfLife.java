@@ -2,12 +2,7 @@
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-/*
- * Creates and runs the actual game 
- * 
- * @author Aman Haileyesus 
- * @version 10/17/2022
- */
+
 public class GameOfLife extends JFrame implements ActionListener
 
 {
