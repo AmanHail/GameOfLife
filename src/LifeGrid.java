@@ -1,22 +1,4 @@
-/**
- * HONOR PLEDGE: All work here is honestly obtained and is my own. Signed:  Aman Haileyesus
- * @author haileyesusa
- * Date of Completion:  eg. 10/17/2022
- * Assignment:  Ch09 GameofLife Project
- * 
- * Attribution: Will Doster, Leah Dorrien, Becca Jose
- * 
- * General Description: Creates the functionality and employs the logic of Game of Life into the grid using 2d arrays
- * 
- * 
- * Advanced:  The array wraps around the left and right of the array to consider neighbors allowing for travel around
- * 
- * Errata:  I could not get the array to add the neighbors of the array when wrapping around the edge.
- * 			Instead, it acts as though there was no wrapping.
- * 			I tried with multiple different versions and variants but could not get the value to be added
- * 			, possibly because of a one-off error in my logic
- *
- */
+
 public class LifeGrid {
 
 	private int[][] grid;
